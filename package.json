@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://bumbershoot-unlimited.github.io",
+  "homepage": "https://mwhite42.github.io/website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
